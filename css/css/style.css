@@ -1,0 +1,18 @@
+body{
+  background-color: #66BFBF;
+
+}
+h1{
+color: grey;
+font-size: 50px;
+}
+.shero{
+  width: 12%;
+  height: 50;
+}
+.bacon{
+  background-color: black;
+}
+img:hover{
+  background-color: #66BFBF;
+}
