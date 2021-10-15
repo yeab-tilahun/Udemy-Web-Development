@@ -65,19 +65,19 @@ p {
 }
 
 .web-development {
-  width: 30%;
+  width: 25%;
   float: left;
   margin-left: 25px;
 }
 
 .computer {
-  width: 30%;
+  width: 25%;
   float: right;
   margin-right: 30px;
 }
 
 .shero {
-  width: 30%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
