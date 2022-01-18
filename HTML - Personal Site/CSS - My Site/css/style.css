@@ -38,10 +38,6 @@ h3 {
   padding-top: 100px;
 }
 
-.middle-container {
-  margin: 100px 0;
-}
-
 .cloud1 {
   position: absolute;
   right: 40px;
@@ -54,10 +50,22 @@ h3 {
   bottom: 300px;
 }
 
+.middle-container {
+  margin: 100px 0;
+  /* background-color: #212121; */
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+}
+
+.course{
+margin: 0;
+}
+.course:hover{
+  color: #337FED;
 }
 
 p {
@@ -67,7 +75,7 @@ p {
 .web-development {
   width: 25%;
   float: left;
-  margin-left: 25px;
+  margin-left: 30px;
 }
 
 .computer {
@@ -122,7 +130,7 @@ hr {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #40514E;
   padding: 50px 0 20px;
 }
 
@@ -137,7 +145,7 @@ a:hover {
   color: #EAF6F6;
 }
 
-.copy {
+.copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
@@ -150,6 +158,3 @@ a:hover {
 .skill-paragraph-programming{
   clear: right ;
 } */
-/* .middle-container {}
-
-.bottom-container {} */
